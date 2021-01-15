@@ -1,0 +1,38 @@
+.container-fluid{
+  
+  background:orange;
+}
+.row{
+  color:"green";
+}
+h1{
+  color:white;
+  margin:10px auto;
+  text-align:center;
+}
+li{
+  list-style:none;
+  display:inline-block;
+  margin:10px auto;
+  margin-bottom:5px;
+  
+  
+}
+#list{
+   text-align:center;
+   padding:1px;
+  
+}
+li a{
+  text-decoration:none;
+  color:white;
+  
+}
+#footer{
+    background:wheat;
+    margin:2px;
+}
+a:hover{
+  font-size:30px;
+  color:blue;
+}
